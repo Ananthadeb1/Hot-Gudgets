@@ -32,3 +32,9 @@ h4, h5{
 h3{
     font-weight: bolder;
 }
+.bg-shadow{
+    width: 150px;
+    height: 150px;
+    box-shadow: 5px 5px 15px  lightgray;
+    border-radius: 10px;
+}
