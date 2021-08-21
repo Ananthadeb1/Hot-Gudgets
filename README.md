@@ -1,2 +1,2 @@
-# Hot-Gudgets
+# Hot-Gadgets
 # Hot-Gadgets
